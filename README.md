@@ -2,6 +2,7 @@ Welcome, my name is Clive and I am a 14 year old app developer. I have been curr
 
 My projects: 
 Tipit: https://github.com/Clivityy2/Tipit-First-Kotlin-App
+
 Todoit: https://github.com/Clivityy2/Todoit-V1.0
 
 Email: CliveMoore54@gmail.com
